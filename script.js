@@ -1,6 +1,6 @@
 var judulDOM = document.getElementById('judul');
-var nama = prompt('Silahkan masukkan nama anda');
-judulDOM.innerHTML = 'Selamat Datang ' + nama;
+// var nama = prompt('Silahkan masukkan nama anda');
+// judulDOM.innerHTML = 'Selamat Datang ' + nama;
 
 var inputKegiatanDOM = document.getElementById('input-kegiatan');
 var simpanDOM = document.getElementById('simpan');
